@@ -44,4 +44,4 @@ python legacy/train.py --train_dir=training/ --pipeline_config_path=training/fas
 其他参考：https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
 
 
-欢迎加入小白交流群1135165504，一起学习共同进步，其他群吹水太多，有资源大家一起分享
+欢迎加入小白交流群1135165504，一起学习共同进步，只交流深度学习相关不吹水，有资源大家一起分享

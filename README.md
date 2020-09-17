@@ -21,7 +21,7 @@ object_detection|https://github.com/tensorflow/models/tree/v1.13.0/research/obje
 >5 判断该API是否安装成功以及测试官方demo
 >6 标注训练集，xml转csv
 >7 csv训练集转换为TF Recode格式
->8 下载预训练的模型的配置文件，然后进行相关配置，如果class不需要的话只填写1就好了，label.ckpt中写一个item就好了
+>8 下载预训练的模型的配置文件，然后进行相关配置，如果class不需要的话只填写就好了，label.ckpt中写一个item就好了
 >9 训练，step最少20000，训练集数量最好>=400
 >10 转换动态模型为冻结模型pb
 >11 测试模型的训练效果
